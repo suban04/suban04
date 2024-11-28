@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Suban Shaikh 😎
+- 👀 I’m interested in Cyber Security.
+- 🌱 I’m currently studying in S. Y. B. Tech.
+- 💞️ I’m looking to collaborate on  Cyber Security Projects.
+- 📫 How to reach me subanshaikh134@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I know everything.
