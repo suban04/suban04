@@ -59,13 +59,13 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/suban-shaikh/" target="_blank">
+<a href="https://www.linkedin.com/in/suban-shaikh-a2b478289/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
 <a href="https://github.com/suban04" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>
-<a href="https://leetcode.com/u/mr_suban044/" target="_blank">
+<a href="https://leetcode.com/u/Suban_04/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/>
 </a>
 </p>
@@ -87,7 +87,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suban04&theme=onedark&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=suban04&theme=onedark&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
 
 <p align="center">
@@ -121,6 +121,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suban04&theme=tokyo-night"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=2&section=header" width="100%" />
+</p>
+
 # 🐍 Contribution Snake Animation
 
 <p align="center">
@@ -128,6 +132,16 @@
 </p>
 
 > 💡 **Note:** The snake animation above requires a one-time GitHub Actions setup in your `suban04/suban04` repo. Let me know if you'd like the workflow file for it — I can generate it for you.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=2&section=header" width="100%" />
+</p>
+
+## 💻 Coding in Progress
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00C853&height=2&section=header" width="100%" />
